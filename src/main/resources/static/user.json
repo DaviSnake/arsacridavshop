@@ -1,0 +1,16 @@
+[
+
+    {
+      "userName": "dmedina@gmail.com",
+      "fullName": "David Medina",
+      "password": "12345678",
+      "rol": "Admin"
+    },
+    {
+      "userName": "cristinam@gmail.com",
+      "fullName": "Cristina Maulen",
+      "password": "12345678",
+      "rol": "User"
+    }
+
+  ]
